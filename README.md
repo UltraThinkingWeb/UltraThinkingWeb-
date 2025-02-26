@@ -1,3 +1,4 @@
+## 📌 Përshkrimi
 UltraThinkingWeb është një projekt revolucionar që synon të krijojë një rrjet ultra të decentralizuar duke kombinuar:
 - ✅ **Rrjete Mesh** për lidhje të pavarur nga interneti.
 - ✅ **Blockchain Offline** për siguri maksimale dhe transaksione të shpejta.
