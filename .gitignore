@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+package-lock.json
+node_modules/
+backend/backend/
+frontend/
+
